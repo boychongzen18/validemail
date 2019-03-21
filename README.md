@@ -1,4 +1,4 @@
-# Tools Valid Email [Email & Password]
+# Tools ValidEmail live & Die [Email & Password]
 
 # Windows & Termux Working
 
