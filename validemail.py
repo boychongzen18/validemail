@@ -1,9 +1,10 @@
 import requests
 
-# Valid Email Tools Modif 
-# Priv8 Valid Email Python
-# Options Output Live & Die
+# Tools Priv8 Valid Email Python (MODIF)
+# Output Live & Die - Users & Password Target
 # Tested : Windows & Termux Working
+# Regard Boychongzen aka Xroot
+
 
 print ('''\033[1m\033[93m[\033[91m!\033[93m] Priv8 Valid Email Python (MODIF) 
 \033[1;34mAuthor \033[91m:\033[37m Boychongzen aka Xroot \n \033[1;34m          
